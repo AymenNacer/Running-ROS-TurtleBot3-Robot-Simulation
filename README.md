@@ -1,7 +1,7 @@
 # ROS-TurtleBot3-Simulation
-we will launch a virtual robot called TurtleBot3. TurtleBot3 is a low-cost, personal robot kit with open-source software.
+I will launch a virtual robot called TurtleBot3. TurtleBot3 is a low-cost, personal robot kit with open-source software.
 
-i lanuch this simulation on Ubuntu 20.04 and ROS Noetic, Follow the instruction to run the simulation
+I lanuch this simulation on Ubuntu 20.04 and ROS Noetic, Follow the instruction to run the simulation
 # install the TurtleBot3 simulator
 Open a terminal window and install the dependent packages. Enter the following commands:
 
@@ -31,7 +31,7 @@ Add this line at the bottom of the file:
 
     * cd ~/catkin_ws && catkin_make
     
-# start simulating TurtleBot3 and move the robot using Keyboard
+# start simulating TurtleBot3 and move the robot using the Keyboard
 There are many different environments to simulate the robot in such as empty environment, a house, environment for SLAM testing
 i will use the house environment, type:
 
