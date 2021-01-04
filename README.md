@@ -1,5 +1,5 @@
 # ROS-TurtleBot3-Simulation
-I will launch a virtual robot called TurtleBot3. TurtleBot3 is a low-cost, personal robot kit with open-source software.
+(Smart Methods Internship) I will launch a virtual robot called TurtleBot3. TurtleBot3 is a low-cost, personal robot kit with open-source software.
 
 I lanuch this simulation on Ubuntu 20.04 and ROS Noetic, Follow the instruction to run the simulation
 # install the TurtleBot3 simulator
